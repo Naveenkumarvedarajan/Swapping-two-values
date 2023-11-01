@@ -29,6 +29,9 @@ x=y
 y=temp
 print("The Swapped values are")
 ```
+## Output:
+![swapping](https://github.com/Naveenkumarvedarajan/Swapping-two-values/assets/147140428/f59f1f6a-b50d-4d55-b125-896efd803b8e)
+
 
 
 
