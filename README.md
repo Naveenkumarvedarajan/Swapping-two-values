@@ -29,7 +29,8 @@ x=y
 y=temp
 print("The Swapped values are")
 ```
-
+##output:
+/home/sec/Documents/swapping of two variables.png
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
