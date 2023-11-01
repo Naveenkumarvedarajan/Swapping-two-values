@@ -29,8 +29,7 @@ x=y
 y=temp
 print("The Swapped values are")
 ```
-##output:
-![Uploading swapping of two variables.png…]()
+
 
 
 
